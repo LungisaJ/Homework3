@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  	<title>Test File</title>
+  </head>
+
+  <body>
+  	<h1>Lungisa's Psychic Game</h1>
+
+	 <p>Guess What Letter am I thinking of?</p>
+ 
+	<script src="psych_game1.html"/>
+  </body>
+
+</html>
